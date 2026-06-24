@@ -1,1 +1,1 @@
-This folder will contain mysql files
+This folder will contain mysql queries source files
