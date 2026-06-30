@@ -1,56 +1,67 @@
-# Colorectal Cancer Survival Analytics
-## A Multi-Dimensional Analysis of Clinical, Lifestyle, and Social Determinants
+# Abimbola S. Bashorun – Data Scientist / Analyst Portfolio
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Welcome to my data portfolio! I am a **Data Scientist / Analyst** with an **MSc in Statistics** and **15+ years of experience** in data analysis, machine learning, and business intelligence. I specialize in turning raw data into actionable insights using **SQL, Python, R, Power BI**, and **machine learning**.
 
-## 📌 Project Overview
+---
 
-This project analyzes **89,945 colorectal cancer patient records** to identify key factors influencing survival and mortality. The analysis examines clinical, demographic, lifestyle, and social factors to provide actionable insights for healthcare professionals and policymakers.
+## 📂 Projects by Domain
 
-**Key Metrics:**
-- **Total Patients:** 89,945
-- **Survival Rate:** 74.9%
-- **Mortality Rate:** 25.1%
-- **Average Age:** 54.33 years
+### 🏥 Healthcare Analytics
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Colorectal Cancer Survival Analytics](01-Healthcare-Analytics/Colorectal-Cancer-Survival/) | MySQL · Power BI · Python | Analyzed 89,945 patient records to identify factors influencing survival |
+| [Heart Failure Prediction](01-Healthcare-Analytics/Heart-Failure-Prediction/) | Python · Scikit-learn · Jupyter | 6 machine learning models to predict heart failure mortality (83.33% accuracy) |
 
-## 🚨 Critical Finding
-**The Under 40 age group accounts for ~25,850 patients**—nearly double the size of any other age group. This challenges conventional assumptions, as colorectal cancer typically affects older adults (diagnosed after age 50). This finding warrants further investigation into genetic, environmental, or cohort-specific factors affecting younger populations.
+### 📡 Telecom Analytics
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Customer Churn Prediction](02-Telecom-Analytics/Customer-Churn-Prediction/) | Python · Stan · Bayesian | Bayesian hierarchical model with 94.1% AUC-ROC |
 
-## 📊 Dashboard Pages (11 Pages)
+### 📈 Economic Analytics
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Inflation Rate Forecasting](03-Economic-Analytics/Inflation-Forecasting/) | R · Time Series | ARIMA/SARIMA forecasting of 261 monthly observations |
+| [GDP, Inflation & Life Expectancy Regression](03-Economic-Analytics/GDP-Regression-Analysis/) | Python · Statsmodels | OLS, WLS, and robust regression models |
 
-| Page | Content |
-|------|---------|
-| 1 | Overview – KPIs & Gender Distribution |
-| 2 | Demographics – Age Group & Region |
-| 3 | Demographics – Region Only |
-| 4 | Mortality & Survival – Smoking Status |
-| 5 | Mortality & Survival – Treatment Access & Region |
-| 6 | Mortality & Survival – Age Group & Stage at Diagnosis |
-| 7 | Lifestyle Factors – Alcohol Consumption |
-| 8 | Lifestyle Factors – Physical Activity Level |
-| 9 | Lifestyle Factors – BMI Category |
-| 10 | Social Factors – SES & Treatment Access |
-| 11 | Diet Factors – Fiber, Red Meat & Diet Type |
+### 📱 Social Media Analytics
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [YouTube Channel Trends Analysis](04-Social-Media-Analytics/YouTube-Trends-Analysis/) | Python · SPSS | Analysis of factors influencing channel popularity |
 
-## 🛠️ Tools Used
+---
 
-| Tool | Purpose |
-|------|---------|
-| **MySQL** | Data storage, querying, and cleaning |
-| **Power BI** | Interactive dashboard creation and visualization |
-| **Python** | Statistical modeling and analysis |
+## 🛠️ Tools & Technologies
 
-## 📈 Key Insights
+| Category | Skills |
+|----------|--------|
+| **Programming** | Python (pandas, numpy, scikit-learn, statsmodels), R, SPSS |
+| **Databases** | SQL, MySQL, PostgreSQL, SQL Server |
+| **Visualization** | Power BI, Tableau, Excel |
+| **Machine Learning** | XGBoost, Random Forest, Logistic Regression, SVM, KNN, Bayesian Modeling |
+| **Statistical Modeling** | Regression, Time Series, Survival Analysis, Mixed Effects Models |
+| **Other Tools** | Jupyter Notebook, VS Code, Git, GitHub |
 
-| Category | Key Finding |
-|----------|-------------|
-| **Demographic (Age)** | Under 40 is the largest patient group (~25,850 patients) |
-| **Demographic (SES)** | Middle SES has the highest survival rate (74.9%) |
-| **Clinical** | Stage I (earliest diagnosis) has the best survival |
-| **Lifestyle** | Never smoked, Low alcohol, Normal BMI = best outcomes |
-| **Treatment** | Good Access improves survival across all SES groups |
+---
 
-## 📁 Repository Structure
+## 📊 Key Achievements
 
+- ✅ Analyzed **89,945 patient records** for colorectal cancer survival analytics
+- ✅ Achieved **83.33% accuracy** with Tuned Random Forest for heart failure prediction
+- ✅ Built **11-page interactive Power BI dashboard** for healthcare data visualization
+- ✅ Developed **Bayesian hierarchical model** with **94.1% AUC-ROC** for churn prediction
+- ✅ Generated **36-month inflation forecasts** with 95% confidence intervals
+- ✅ Prepared data validation reports ensuring **99% accuracy**
+
+---
+
+## 🔗 Connect with Me
+
+- **GitHub:** https://github.com/abimbolabashorun1-max
+- **Email:** bashorun_abimbola@yahoo.com
+- **LinkedIn:** [Your LinkedIn URL]
+
+---
+
+## 📅 Last Updated
+
+June 2026
