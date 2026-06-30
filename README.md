@@ -58,7 +58,7 @@ Welcome to my data portfolio! I am a **Data Scientist / Analyst** with an **MSc 
 
 - **GitHub:** https://github.com/abimbolabashorun1-max
 - **Email:** bashorun_abimbola@yahoo.com
-- **LinkedIn:** [Your LinkedIn URL]
+
 
 ---
 
