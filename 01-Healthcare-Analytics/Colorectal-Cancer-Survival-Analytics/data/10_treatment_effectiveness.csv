@@ -1,0 +1,9 @@
+Chemotherapy_Received,Radiotherapy_Received,Surgery_Received,patients,deaths,mortality_rate
+No,No,Yes,18792,4608,24.52
+Yes,No,Yes,18956,4727,24.94
+Yes,Yes,Yes,12580,3175,25.24
+No,No,No,8058,2036,25.27
+Yes,No,No,8146,2059,25.28
+No,Yes,No,5477,1386,25.31
+No,Yes,Yes,12551,3188,25.40
+Yes,Yes,No,5385,1425,26.46

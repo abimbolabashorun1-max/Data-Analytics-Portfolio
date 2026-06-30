@@ -1,0 +1,17 @@
+Stage_at_Diagnosis,Chemotherapy_Received,Surgery_Received,patients,deaths,mortality_rate
+I,No,No,3453,865,25.05
+I,Yes,Yes,7878,1976,25.08
+I,No,Yes,7855,1984,25.26
+I,Yes,No,3408,875,25.67
+II,No,Yes,9373,2331,24.87
+II,Yes,Yes,9396,2369,25.21
+II,No,No,3993,1008,25.24
+II,Yes,No,4107,1074,26.15
+III,Yes,No,3369,834,24.76
+III,No,Yes,7749,1924,24.83
+III,Yes,Yes,7933,1976,24.91
+III,No,No,3361,869,25.86
+IV,No,Yes,6366,1557,24.46
+IV,No,No,2728,680,24.93
+IV,Yes,Yes,6329,1581,24.98
+IV,Yes,No,2647,701,26.48

@@ -1,0 +1,11 @@
+Gender,Race,total_patients,avg_age,youngest,oldest
+Male,White,24628,54.6,20,89
+Female,White,20259,54.2,20,89
+Male,Black,9891,54.4,20,89
+Female,Black,8114,54.4,20,89
+Male,Asian,7435,53.8,20,89
+Female,Asian,6067,54.2,20,89
+Male,Hispanic,4928,54.6,20,89
+Female,Hispanic,4112,54.1,20,89
+Male,Other,2487,53.9,20,89
+Female,Other,2024,54.4,20,89
